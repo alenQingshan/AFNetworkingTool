@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11FEF52E-824F-4F62-87B9-94A1868EE79C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F687E08B83A2123AB80F59AF7C28299CAD7EDCCF</key>
+		<string>github.com:spicyShrimp/AFNetworkingTool.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AFNetworkingTool.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F687E08B83A2123AB80F59AF7C28299CAD7EDCCF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:spicyShrimp/AFNetworkingTool.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F687E08B83A2123AB80F59AF7C28299CAD7EDCCF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F687E08B83A2123AB80F59AF7C28299CAD7EDCCF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AFNetworkingTool</string>
+		</dict>
+	</array>
+</dict>
+</plist>
